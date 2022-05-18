@@ -14,10 +14,8 @@ public class PrimeiroPrograma {
         System.out.println("Hello world!");*/
 
 
-
-        livro livro1 = new livro(nome: "O problema dos 3 corpos", numPaginas: 300)
-
-        System.out.println(livro1);
+        //livro livro1 = new livro(nome: "O problema dos 3 corpos", numPaginas: 300);
+        //System.out.println(livro1);
     }
 
 }
